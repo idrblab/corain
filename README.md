@@ -77,25 +77,24 @@ optional arguments:
 
 The paramter "n_select" is corresponsed with parameter "dimension" as following table.
 
-|n_select|1D                           |2D                                          |
-|:-------|:----------------------------|:-------------------------------------------|
-|1       |Open reading frame           |Sequence-intrinsic Features:One-hot encoding|
-|2       |Entropy density of transcript|Sparse encoding                             |
-|3       |Global descriptor            |Structure-based Features:One-hot encoding   |
-|4       |K-mer                        |-                                           |
-|5       |Codon related                |-                                           |
-|6       |Guanine-cytosine related     |-                                           |
-|7       |Pseudo protein related       |-                                           |
-|8       |Nucleotide related           |-                                           |
-|9       |EIIP based spectrum          |-                                           |
-|10      |Lipoaffinity index           |-                                           |
-|11      |Partition coefficient        |-                                           |
-|12      |Molar refractivity           |-                                           |
-|13      |Hydrogen bond related        |-                                           |
-|14      |Secondary structure          |-                                           |
-|15      |Topological indices          |-                                           |
-|16      |Molecular fingerprint        |-                                           |
-|17      |3D Structure-based           |-                                           |
+|n_select|1D                            |2D                                          |
+|:-------|:---------------------------- |:-------------------------------------------|
+|1       |Open reading frame            |Sequence-intrinsic Features:One-hot encoding|
+|2       |Entropy density of transcript |Sparse encoding                             |
+|3       |Global descriptor             |Structure-based Features:One-hot encoding   |
+|4       |K-mer                         |-                                           |
+|5       |Guanine-cytosine/Codon related|-                                           |
+|6       |Pse-protein/Nucleotide        |-                                           |
+|7       |Nucleotide related            |-                                           |
+|8       |EIIP based spectrum           |-                                           |
+|9       |Lipoaffinity index            |-                                           |
+|10      |Partition coefficient         |-                                           |
+|11      |Molar refractivity            |-                                           |
+|12      |Hydrogen bond related         |-                                           |
+|13      |Secondary structure           |-                                           |
+|14      |Topological indices           |-                                           |
+|15      |Molecular fingerprint         |-                                           |
+|16      |3D Structure-based            |-                                           |
 
 ![1D](fig/CORAIN-1D.png)
 
