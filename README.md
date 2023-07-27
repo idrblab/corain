@@ -96,7 +96,6 @@ The paramter "n_select" is corresponsed with parameter "dimension" as following 
 |15      |Molecular fingerprint         |-                                           |
 |16      |3D Structure-based            |-                                           |
 
-![1D](fig/CORAIN-1D.png)
 
 # Study demo
 ## 1. RNA-only
