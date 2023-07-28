@@ -154,3 +154,4 @@ wrapt==1.12.1
 xgboost==1.4.2
 yarl @ file:///tmp/build/80754af9/yarl_1606939922162/work
 zipp @ file:///tmp/build/80754af9/zipp_1615904174917/work
+LncFinder (R package) is needed to install.
