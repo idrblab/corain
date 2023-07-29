@@ -1,4 +1,4 @@
-## There are two more required files "ncbi-blast-2.9.0+-x64-linux.tar.gz" and "swissprot.zip".
+There are two more required files "ncbi-blast-2.9.0+-x64-linux.tar.gz" and "swissprot.zip".
 
 > The software package “ncbi-blast-2.9.0+” could be downloaded from https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/2.9.0/ncbi-blast-2.9.0+-x64-linux.tar.gz. (Approximate file size: 712M) Unzip and place it into this folder.
 
